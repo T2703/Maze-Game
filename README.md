@@ -21,6 +21,5 @@ Features:
 - Collision detection with the walls of the maze.
 
 Honestly, probably one of my favorite things I have done in C other than that I'm not a big fan of the language lol. 
-Also, if you are a student taking the same class and are dealing with this lab, feel free to take a look at what I have done.
-
-
+I do not condone the use or copying of these files. 
+USE AT YOUR OWN RISK!
