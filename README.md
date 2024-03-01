@@ -1,7 +1,7 @@
 # Maze-Game
 ___________________
 
-This was a lab I did for a programming class.
+This was a lab I did for a programming class, CPRE 185.
 This is a maze game developed in C where the user can choose their own difficulty and it generates the maze depending on the difficulty.
 It is controlled through the DS4 (PlayStation 4) controllers using the ds4rd.exe.
 ______________________
@@ -22,4 +22,4 @@ Features:
 
 Honestly, probably one of my favorite things I have done in C other than that I'm not a big fan of the language lol. 
 I do not condone the use or copying of these files. 
-USE AT YOUR OWN RISK!
+If you plan to use make sure you use it as a resource and DO NOT just copy.
